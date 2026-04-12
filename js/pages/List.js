@@ -103,6 +103,9 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps, no going under 60fps)
                     </p>
                     <p>
+                        Level must use the 2 player offset gimmick setup seen in the template level somewhere in the level. (making the icons further apart or closer is allowed.)
+                    </p>
+                    <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
