@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+		    "user": "LordofFIH",
+		    "link": "https://medal.tv/fr/games/geometry-dash/clips/mxmjFqWXmE-oYwxcB?invite=cr-MSxwRk8sMzE2MzcxNzkz&v=96",
+		    "hz": "240",
+		    "percent": 100
+	    }
     ]
 }
