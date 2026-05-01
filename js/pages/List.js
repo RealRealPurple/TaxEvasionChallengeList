@@ -121,7 +121,7 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we never accept records for said level again.
+                        Once a level falls onto the Legacy List, we never accept records for said level again unless it makes its way out of legacy.
                     </p>
                 </div>
             </div>
